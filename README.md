@@ -2,7 +2,7 @@
 
 ### Hi, I’m @onicolasz! 
 #### 👨‍💻 Developer
-#### 🎓 I have a degree in IT from the IFSUL.
+#### 🎓 Graduated from the technical course in IT at IFSUL
 #### 🎓 Now, I am studying Systems Analysis and Development in UNISINOS
 #### 💞 I’m love games, computer and sports.
 
