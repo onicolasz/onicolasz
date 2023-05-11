@@ -1,4 +1,4 @@
-<img align='right' src="https://raw.githubusercontent.com/yan-brito/yan-brito/master/assets/dev.gif" width="30%">
+<img align='right' src="https://raw.githubusercontent.com/onicolasz/yan-brito/master/assets/dev.gif" width="30%">
 
 ## Hi, I’m @onicolasz!
 
