@@ -1,14 +1,12 @@
-<img align='right' src="https://raw.githubusercontent.com/onicolasz/onicolasz/master/assets/dev.gif" width="30%">
+<img align='right' src="https://raw.githubusercontent.com/onicolasz/onicolasz/master/assets/dev5.gif" width="30%">
 
-## Hi, I’m @onicolasz!
-
-## 👨‍💻 Developer
-
-## 💞 I’m love games, computer and sports.
+### Hi, I’m @onicolasz! 
+#### 👨‍💻 Developer
+#### 💞 I’m love games, computer and sports.
 
 [![](https://img.shields.io/badge/LinkedIn-NicolasBarros-blue)](https://www.linkedin.com/in/nicolas-barros-de-souza-06b315124) [![](https://img.shields.io/badge/mail-nicolasbarrosdesouza%gmail.com-red)](mailto:nicolasbarrosdesouza@gmail.com)
 
-## A little more about me...
+### A little more about me...
 
 ```javascript
 const nicolas = {
