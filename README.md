@@ -2,13 +2,13 @@
 
 ## Hi, I’m @onicolasz!
 
-## 💞 I’m love games, computer and sports.
-
 ## 👨‍💻 Developer
+
+## 💞 I’m love games, computer and sports.
 
 [![](https://img.shields.io/badge/LinkedIn-NicolasBarros-blue)](https://www.linkedin.com/in/nicolas-barros-de-souza-06b315124) [![](https://img.shields.io/badge/mail-nicolasbarrosdesouza%gmail.com-red)](mailto:nicolasbarrosdesouza@gmail.com)
 
-## <img src="https://raw.githubusercontent.com/yan-brito/yan-brito/master/assets/riven.gif" width="60"> A little more about me...
+## A little more about me...
 
 ```javascript
 const nicolas = {
