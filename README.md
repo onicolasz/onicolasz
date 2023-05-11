@@ -28,5 +28,5 @@ const nicolas = {
     <em>"Living and Learning."</em>
 </p>
 <p align="center">
-<img src="https://raw.githubusercontent.com/onicolasz/onicolasz/master/assets/terra.gif" width="6%" align='center'>
+<img src="https://raw.githubusercontent.com/onicolasz/onicolasz/master/assets/terra.gif" width="12%" align='center'>
 </p>
