@@ -28,5 +28,5 @@ const nicolas = {
     <em>"Living and Learning."</em>
 </p>
 <p align="center">
-<img src="https://tenor.com/pt-BR/view/earth-revolve-world-space-spin-gif-17053036" width="6%" align='center'>
+<img src="https://raw.githubusercontent.com/onicolasz/onicolasz/master/assets/terra.gif" width="6%" align='center'>
 </p>
