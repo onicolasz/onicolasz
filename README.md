@@ -10,7 +10,7 @@
 
 [![](https://img.shields.io/badge/LinkedIn-NicolasBarros-blue)](https://www.linkedin.com/in/nicolas-barros-de-souza-06b315124) [![](https://img.shields.io/badge/mail-nicolasbarrosdesouza%gmail.com-red)](mailto:nicolasbarrosdesouza@gmail.com)
 
-## A little more about me...
+## <img src="https://raw.githubusercontent.com/yan-brito/yan-brito/master/assets/riven.gif" width="60"> A little more about me...
 
 ```javascript
 const nicolas = {
