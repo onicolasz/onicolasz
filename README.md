@@ -13,10 +13,10 @@
 ```javascript
 const nicolas = {
   pronouns: "He" | "Him",
-  askMeAbout: ["app dev", "web dev", "tech"],
+  askMeAbout: ["web dev", "mobile dev", "tech"],
   technologies: {
-    backEnd: ["nodejs", "express", "spring boot"],
-    frontEnd: ["javascript", "react", "vue"],
+    backEnd: ["nestjs", "prisma", "spring boot", "hibernate"],
+    frontEnd: ["vuejs", "nextjs"],
     mobileApp: ["android"],
     database: ["mysql", "postgresql"],
     misc: ["google cloud"],
