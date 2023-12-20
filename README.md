@@ -1,7 +1,7 @@
 <img align='right' src="https://raw.githubusercontent.com/onicolasz/onicolasz/master/assets/dev5.gif" width="30%">
 
 ### Hi, I’m @onicolasz! 
-#### 👨‍💻 Developer at 4u EdTech
+#### 👨‍💻 Full Stack Developer at 4u EdTech
 #### 🎓 I have a degree in IT from the IFSUL.
 #### 🎓 Now, I am studying Systems Analysis and Development in UNISINOS
 #### 💞 I’m love games, computer and sports.
