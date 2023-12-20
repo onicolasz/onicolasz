@@ -1,7 +1,7 @@
 <img align='right' src="https://raw.githubusercontent.com/onicolasz/onicolasz/master/assets/dev5.gif" width="30%">
 
 ### Hi, I’m @onicolasz! 
-#### 👨‍💻 Developer
+#### 👨‍💻 Developer at 4u EdTech
 #### 🎓 I have a degree in IT from the IFSUL.
 #### 🎓 Now, I am studying Systems Analysis and Development in UNISINOS
 #### 💞 I’m love games, computer and sports.
@@ -15,11 +15,11 @@ const nicolas = {
   pronouns: "He" | "Him",
   askMeAbout: ["web dev", "mobile dev", "tech"],
   technologies: {
-    backEnd: ["nestjs", "prisma", "spring boot", "hibernate"],
-    frontEnd: ["vuejs", "nextjs"],
-    mobileApp: ["android"],
+    backEnd: ["node js", "nest js", "prisma", "spring boot", "hibernate"],
+    frontEnd: ["vue js", "react js"],
+    mobileApp: ["android", "react native"],
     database: ["mysql", "postgresql"],
-    misc: ["google cloud"],
+    misc: ["docker", "google cloud"],
   },
 };
 ```
